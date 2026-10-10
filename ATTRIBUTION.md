@@ -16,3 +16,12 @@ upstream sources (checked by `craft-fonts-tests`, which verifies each SHA-256 in
 The OFL allows these fonts to be bundled, embedded and redistributed with software, provided the
 licence text travels with them and the fonts are not sold on their own. "Shippori Mincho",
 "BIZ UD" and "Noto" are the authors' names for their fonts; we use the files unmodified.
+
+
+## GridCraft Chinese font additions
+
+| File | Family / style | Author | Source (pinned) | Licence |
+|---|---|---|---|---|
+| `fonts/noto-serif-cjk-sc/NotoSerifCJKsc-Regular.otf` | Noto Serif CJK SC Regular | The Noto Project Authors | [Pinned source](https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Serif/OTF/SimplifiedChinese/NotoSerifCJKsc-Regular.otf) | OFL-1.1 (`fonts/noto-serif-cjk-sc/OFL.txt`) |
+| `fonts/lxgw-wenkai/LXGWWenKai-Regular.ttf` | LXGW WenKai Regular | LXGW and the Klee One Project Authors | [Pinned source](https://raw.githubusercontent.com/lxgw/LxgwWenKai/29acb395f27f55110c2427e3ac2de1c12553cf6e/fonts/TTF/LXGWWenKai-Regular.ttf) | OFL-1.1 (`fonts/lxgw-wenkai/OFL.txt`) |
+| `fonts/zhuque-fangsong/ZhuqueFangsong-Regular.ttf` | Zhuque Fangsong (technical preview) Regular | TrionesType / JadeRipple Technology | [Pinned source](https://github.com/TrionesType/zhuque/releases/download/v0.212/ZhuqueFangsong-v0.212.zip) | OFL-1.1 (`fonts/zhuque-fangsong/OFL.txt`) |

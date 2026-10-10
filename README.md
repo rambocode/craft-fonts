@@ -33,6 +33,9 @@ This library is meant to have the following:
 | Shippori Mincho | Regular | Japanese document text (serif) | OFL-1.1 |
 | BIZ UDMincho | Regular | Japanese document text (serif) | OFL-1.1 |
 | Noto Sans CJK SC | Regular | Simplified Chinese UI and document text (sans) | OFL-1.1 |
+| Noto Serif CJK SC | Regular | Simplified Chinese document text (serif) | OFL-1.1 |
+| LXGW WenKai | Regular | Simplified Chinese document text (Kai) | OFL-1.1 |
+| Zhuque Fangsong (technical preview) | Regular | Simplified Chinese document text (Fangsong) | OFL-1.1 |
 | Noto Sans Arabic | Regular (variable: wdth, wght) | Arabic UI and document text (sans) | OFL-1.1 |
 
 ## How the apps use it
